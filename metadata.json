@@ -1,0 +1,6 @@
+{
+  "name": "Hệ Thống Khảo Thí & Thi Trực Tuyến Quân Đội Nhân Dân Việt Nam",
+  "description": "Hệ thống tạo đề thi tự động bằng AI, ngân hàng câu hỏi, phòng thi trực tuyến QR, giám sát chống gian lận và xuất báo cáo điểm Excel chuẩn Quân đội Nhân dân Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
